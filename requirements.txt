@@ -1,5 +1,6 @@
 pypdf
 langchain
-chromadb # Vector storage
+langchain_community
+langchain_chroma
 pytest
 boto3
